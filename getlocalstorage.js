@@ -113,7 +113,7 @@
   modal.innerHTML = `
     <div class="rf-content">
       <div class="rf-header">
-        <div class="rf-title">Session Data</div>
+        <div class="rf-title">Local Storage Session</div>
       </div>
       <textarea class="rf-textarea" readonly>${jsonContent}</textarea>
     </div>
